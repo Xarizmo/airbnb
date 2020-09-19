@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Banner.css';
+import './Banner.scss';
 import { Button } from '@material-ui/core';
 import Search from './Search';
 
